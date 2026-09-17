@@ -399,7 +399,7 @@ st.markdown(
     """
 <div class="info-box">
     <b>How does it work?</b><br><br>
-    This application uses a trained <b>Linear Regression ajna</b> model
+    This application uses a trained <b>Linear Regression </b> model
     to estimate sales based on TV, Radio and Newspaper advertising expenditure.
 </div>
     """,
